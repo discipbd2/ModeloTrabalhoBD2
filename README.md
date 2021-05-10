@@ -49,6 +49,8 @@ TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
 Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
 <br>
 <br>
+
+##   MARCO DE ENTREGA PARTE 01 (Até item 8)
  
 ### 9 CARGA DE DADOS,ANÁLISE DE METADADOS,ESTATISTICAS, SIZING E INDEXAÇÃO
 #### 9.1	CARGA DE DADOS A ANÁLISE DOS RESULTADOS OBTIDOS
@@ -57,9 +59,6 @@ Realização de todo processo de ETL (Siga os passos solicitados, preferencialen
 OBS:Lembre que este processo é comumente custoso e complexo, não substime as dificuldades implícitas. 
 <br>
 <br>
-
-
-##   MARCO DE ENTREGA PARTE 01 (Até item 9.1)
 
 
 #### 9.2	,ESTATISTICAS, SIZING<br>
@@ -88,6 +87,7 @@ Inclusão de análise das estatísticas e Sizing
         f) Tempo para restauração (script sql)
 <br>
 
+##   MARCO DE ENTREGA PARTE 02 (Até item 10)
 
 ### 11 MINERAÇÃO DE DADOS
 
@@ -108,7 +108,7 @@ Scikit learning Map : http://scikit-learn.org/stable/tutorial/machine_learning_m
 Machine learning in Python with scikit-learn: https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
 
 
-##   MARCO DE ENTREGA PARTE 02 (Até item 11)
+
 
 
 
