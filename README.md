@@ -67,7 +67,14 @@ Inclusão de análise das estatísticas e Sizing
 <br>
 <br>
 
-#### 9.3	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
+#### 9.3	Cubos e Dashboards<br>
+<br>
+Inclusão de cubos e dashboards desenvolvidos
+<br>
+<br>
+
+
+#### 9.4	APLICAÇAO DE ÍNDICES E TESTES DE PERFORMANCE<br>
     a) Lista de índices, tipos de índices com explicação de porque foram implementados nas consultas 
     b) Performance esperada VS Resultados obtidos
     c) Tabela de resultados comparando velocidades antes e depois da aplicação dos índices (constando velocidade esperada com planejamento, sem indice e com índice Vs velocidade de execucao real com índice e sem índice).
@@ -76,7 +83,6 @@ Inclusão de análise das estatísticas e Sizing
     f) Inclusão de tabela mostrando as 10 execuções, excluindo-se o maior e menor tempos para cada consulta e 
     obtendo-se a media dos outros valores como resultado médio final.
 <br>
-
 #### 10 Backup do Banco de Dados<br>
         Detalhamento do backup.
         a) Tempo
